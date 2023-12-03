@@ -8,16 +8,15 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 <li> 💡 I'd like to learn new things that have good benefit   
 <li> 🦇 I'm literally Bruce Wayne
 
-🛜 &nbsp;**Connect with me**
+<h4>🛜 &nbsp;Connect with me</h4>
 <p align="left">
 <a href="https://linkedin.com/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/in/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
+<h4>📊 &nbsp;This week I spent my time on</h4>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adereiki02&show_icons=true&bg_color=00000000)
 
-📊 &nbsp;**This week I spent my time on**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adereiki02&show_icons=true&theme=radical)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=adereiki02&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
