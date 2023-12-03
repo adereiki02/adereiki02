@@ -19,13 +19,13 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 
 </br>
 
-## 🏆 <h3>&nbsp;My achievement</h3>
+## <h3>🏆 &nbsp;My achievement</h3>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=adereiki02">
 <img src="https://github-profile-trophy.vercel.app/?username=adereiki02">
 
 </br>
 
-## <h3>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</h3>
+## <h3>📈 &nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</h3>
 <br/>
 <a href='https://profile.codersrank.io/user/adereiki02/'>
 <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=adereiki02&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
