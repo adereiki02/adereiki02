@@ -1,13 +1,14 @@
 # Hello world <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
+<img align="right" src="https://i0.wp.com/media3.giphy.com/media/FmISlhpuonAaY/giphy.gif" />
+
 <li> 🧑‍💻 I'm currently work as <b>Web Developer</b>
 <li> 🪴 I'm currently learning <b>MERN Tech Stack</b>
 <li> 🗨️ Ask me about anything related to <b>Web Development, Web Design, and/or the other</b>
 <li> 🎮 Another my hobbies is playing a game and watching movies, i do it when got bored or tired after learning, doing, completing task
 <li> 💡 I'd like to learn new things that have good benefit   
 <li> 🦇 I'm literally Bruce Wayne
-<img align="right" src="https://i0.wp.com/media3.giphy.com/media/FmISlhpuonAaY/giphy.gif" />
 
 <h4>🛜 &nbsp;Connect with me</h4>
 <p align="left">
