@@ -7,6 +7,7 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 <li> 🎮 Another my hobbies is playing a game and watching movies, i do it when got bored or tired after learning, doing, completing task
 <li> 💡 I'd like to learn new things that have good benefit   
 <li> 🦇 I'm literally Bruce Wayne
+<img align="right" src="https://i0.wp.com/media3.giphy.com/media/FmISlhpuonAaY/giphy.gif" />
 
 <h4>🛜 &nbsp;Connect with me</h4>
 <p align="left">
@@ -14,7 +15,6 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 <a href="https://instagram.com/in/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <h4>📊 &nbsp;This week I spent my time on</h4>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <details>
