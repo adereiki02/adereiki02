@@ -14,7 +14,7 @@ Let me introduce my self, I am **Ade Reiki Karuna** | **Reiki Master** 🧔🏻�
 
 </br>
 
-## <h3>🛜 &nbsp;Connect with me</h3>
+## <h3>🛜 Connect with me</h3>
 <a href="https://linkedin.com/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/in/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
