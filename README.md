@@ -2,7 +2,7 @@
 
 Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 </br>
-<img align="right" src="https://gifdb.com/images/high/batman-glowing-eyes-d10t0vs2sewmkx74.gif" style="width: 200px; height: auto; border-radius: 50%; border: 2px solid #34deeb;" />
+<img align="right" src="https://gifdb.com/images/high/batman-glowing-eyes-d10t0vs2sewmkx74.gif" style="width: 200px; height: auto; border-radius: 20px; border: 2px solid #34deeb;" />
 
 
 <li> 🧑‍💻 I'm currently work as <b>Web Developer</b>
@@ -18,7 +18,11 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 <a href="https://instagram.com/in/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <h4>📊 &nbsp;This week I spent my time on</h4>
-
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=adereiki02">
+<img src="https://github-profile-trophy.vercel.app/?username=adereiki02">
+</details>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
