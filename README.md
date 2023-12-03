@@ -1,5 +1,5 @@
 # Hello world <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-## test
+
 Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 </br>
 <img align="right" src="https://gifdb.com/images/high/batman-glowing-eyes-d10t0vs2sewmkx74.gif" style="width: 200px; height: auto; border-radius: 20px; border: 2px solid #34deeb;" />
@@ -12,20 +12,20 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 <li> 💡 I'd like to learn new things that have good benefit   
 <li> 🦇 I'm literally Bruce Wayne
 
-### 🛜 &nbsp;Connect with me
+## 🛜 &nbsp;Connect with me
 <p align="left">
 <a href="https://linkedin.com/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/in/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 </br>
 
-### 🏆 &nbsp;My achievement
+## 🏆 &nbsp;My achievement
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=adereiki02">
 <img src="https://github-profile-trophy.vercel.app/?username=adereiki02">
 
 </br>
 
-### 📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats
+## 📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats
 <br/>
 <a href='https://profile.codersrank.io/user/adereiki02/'>
 <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=adereiki02&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
