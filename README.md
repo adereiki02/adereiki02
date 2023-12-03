@@ -1,6 +1,8 @@
 # Hello world <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
+</br>
+<img align="right" src="https://gifdb.com/images/high/batman-glowing-eyes-d10t0vs2sewmkx74.gif" style="width: 150px; height: auto;" />
 
 
 <li> 🧑‍💻 I'm currently work as <b>Web Developer</b>
@@ -30,7 +32,6 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 </br>
 
 
-<img align="center" src="https://gifdb.com/images/high/batman-glowing-eyes-d10t0vs2sewmkx74.gif" />
 <!---
 <p align="left">
 <a href="https://github.com/gilangadhan">
