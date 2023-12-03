@@ -2,7 +2,7 @@
 
 Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 </br>
-<img align="right" src="https://gifdb.com/images/high/batman-glowing-eyes-d10t0vs2sewmkx74.gif" style="width: 150px; height: auto;" />
+<img align="right" src="https://gifdb.com/images/high/batman-glowing-eyes-d10t0vs2sewmkx74.gif" style="width: 250px; height: auto;" />
 
 
 <li> 🧑‍💻 I'm currently work as <b>Web Developer</b>
