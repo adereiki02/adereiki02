@@ -1,7 +1,7 @@
 # Hello world <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
-<img align="right" src="https://i0.wp.com/media3.giphy.com/media/FmISlhpuonAaY/giphy.gif" />
+
 
 <li> 🧑‍💻 I'm currently work as <b>Web Developer</b>
 <li> 🪴 I'm currently learning <b>MERN Tech Stack</b>
@@ -26,7 +26,11 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
   </a>
 
 </details>
+</br>
+</br>
 
+
+<img align="center" src="https://i0.wp.com/media3.giphy.com/media/FmISlhpuonAaY/giphy.gif" />
 <!---
 <p align="left">
 <a href="https://github.com/gilangadhan">
