@@ -14,8 +14,7 @@ Let me introduce my self, I am **Ade Reiki Karuna** a.k.a **Reiki Master** 😎
 <a href="https://instagram.com/in/reikidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <h4>📊 &nbsp;This week I spent my time on</h4>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adereiki02&show_icons=true&bg_color=00000000)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <details>
