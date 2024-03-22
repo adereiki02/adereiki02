@@ -6,7 +6,6 @@ Let me introduce my self, I am **Ade Reiki Karuna** | **Reiki Master** 🧔🏻�
 
 
 <li> 🧑‍💻 I'm currently work as <b>Web Developer</b>
-<li> 🪴 I'm currently learning <b>MERN Tech Stack</b>
 <li> 🗨️ Ask me about anything related to <b>Web Development, Web Design, and/or the other</b>
 <li> 🎮 Another my hobbies is playing a game and watching movies, i do it when got bored or tired after learning, doing, completing task
 <li> 💡 I'd like to learn new things that have good benefit   
